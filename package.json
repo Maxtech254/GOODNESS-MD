@@ -1,7 +1,7 @@
 {
-  "name": "𝐒𝐀𝐌𝐒𝐔𝐍𝐆 𝐗𝐌𝐃",
+  "name": "SAMSUNG_XMD",
   "version": "1.0.0",
-  "description": "𝐒𝐀𝐌𝐒𝐔𝐍𝐆 𝐗𝐌𝐃 - WhatsApp Pair Code Generator",
+  "description": "SAMSUNG_XMD WhatsApp Pair Code Generator",
   "main": "index.js",
   "type": "module",
   "engines": {
@@ -11,7 +11,7 @@
     "start": "node index.js",
     "build": "echo 'No build step required'"
   },
-  "author": "𝗠𝗔𝗫𝗧𝗘𝗖𝗛 𝘿𝙀𝙑",
+  "author": "maxtech",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@shennmine/baileys",
