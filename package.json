@@ -14,7 +14,7 @@
   "author": "𝗠𝗔𝗫𝗧𝗘𝗖𝗛 𝘿𝙀𝙑",
   "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.18",
+    "@whiskeysockets/baileys": "npm:@shennmine/baileys",
     "awesome-phonenumber": "7.2.0",
     "body-parser": "^1.20.3",
     "express": "^4.21.2",
